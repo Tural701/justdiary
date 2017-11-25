@@ -1,0 +1,32 @@
+<html>
+<head>
+<title> Ступенька двадцать пять </title>
+
+
+<frameset rows="300,*,300">
+
+<frame src="Ступенька27-1.html">
+<frame src="Ступенька27-2.html">
+<frame src="Ступенька27-3.html">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</frameset>
+</head>
+</html>
